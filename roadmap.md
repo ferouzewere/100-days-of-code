@@ -84,3 +84,8 @@
   - Agile Metrics and Agile Tools  
   - Scaling Agile
 * Build Portfolio
+
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [Resources](resources.md)

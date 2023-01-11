@@ -35,5 +35,5 @@
 
 ## Contents
 * [Rules](rules.md)
+* [Roadmap](roadmap.md)
 * [Log - click here to see my progress](log.md)
-* [Resources](resources.md)
