@@ -1,6 +1,7 @@
 # Front-End Roadmap
 
-*For the first 30 days of the 100 days challenge, I will be going through the following concepts for revision purposes. Afterwards, the remaining 70 days will be fully deicated to practical cosing through real projects*
+*For the first 30 days of the 100 days challenge, I will be going through the following concepts for revision purposes. Afterwards, the remaining 70 days will be fully dedicated to practical cosing through real projects*
+
 *I have compiled the following topics in order of complexity. Through the 100-days period the concepts will be growing in complexity.*
 
 ## Topics to Cover

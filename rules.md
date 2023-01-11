@@ -11,7 +11,8 @@ January 11th, 2023.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitHub every day so that anyone can see my progress.
 4. I will update the [Log](log.md) with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
+5. If you're new to  most of the Front End programming langyages, spend the fist 30 days of this challenge to familiarise with the concepts. The rest of the days will be spent on developing real presentable projects that solve real world problems. 
+6. I will work on real projects, facing real challenges. The time spent doing tutorials, should be minimal.
 
 
 ## Ideas to make this challenge more effective
