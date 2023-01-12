@@ -13,6 +13,7 @@
   - Responsive Web design
     - CSS FRameworks
       - Bootstrap
+  - CSS Layout
   - CSS preprocessors
   - Build a Project
 * Consider the following concepts before/while learning JavaScript:
@@ -69,7 +70,7 @@
   - Testing with Jest
   - E2E Testing with Jest & Puppeteer
   - E2E Testing with Cypress.io
-* Website Deployment Tools
+* Website Deployment Tools and Testing
 * Revice Advanced Topics:
   - API's
   - Asynchronous JS
