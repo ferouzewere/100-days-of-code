@@ -91,7 +91,7 @@
   - Monitoring and Tracking  
   - Agile Metrics and Agile Tools  
   - Scaling Agile
-* Build Portfolio
+* Come up with project to build within next 7 days
 
 ## Contents
 * [Rules](rules.md)
