@@ -92,6 +92,7 @@
   - Agile Metrics and Agile Tools  
   - Scaling Agile
 * Come up with project to build within next 7 days
+* New project every week for next 10 weeks; equivalent to  the 70 days.
 
 ## Contents
 * [Rules](rules.md)
