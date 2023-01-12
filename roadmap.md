@@ -15,14 +15,14 @@
       - Bootstrap
   - CSS preprocessors
   - Build a Project
-* * Consider the following concepts before/while learning JavaScript:
-* Learn the basics of computer science (algorithms and data structures)
-* Learn Object-Oriented Programming concepts (classes, objects, inheritance, polymorphism)
-* Understand memory management
-* Learn about different programming paradigms (functional, procedural, event-driven)
-* Learn about different software development methodologies (Agile, Waterfall, Scrum)
-* Learn about debugging and testing
-* Learn about software engineering best practices (code review, version control, documentation)
+* Consider the following concepts before/while learning JavaScript:
+* * Learn the basics of computer science (algorithms and data structures)
+* * Learn Object-Oriented Programming concepts (classes, objects, inheritance, polymorphism)
+* * Understand memory management
+* * Learn about different programming paradigms (functional, procedural, event-driven)
+* * Learn about different software development methodologies (Agile, Waterfall, Scrum)
+* * Learn about debugging and testing
+* * Learn about software engineering best practices (code review, version control, documentation)
 * JavaScript
   - Introduction to JavaScript  
   - The Absolute Fundamentals  
