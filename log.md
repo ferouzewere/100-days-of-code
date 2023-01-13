@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 12, 2023
+### Day 1: January 13, 2023
 ##### (delete me or comment me out)
 <!---
 comments syntax
